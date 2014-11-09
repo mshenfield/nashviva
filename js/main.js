@@ -8,11 +8,10 @@
 
   }
 
-  var datasetButtons= ['#fire-station','#police-station','#wifi', '#parks'];
+  var datasetButtons= ['#fire-station','#police-station','#wifi', '#parks', '#communityCenter'];
 
   datasetButtons.forEach(function(dataset){
     $(dataset).click(function(){
-      console.log(this);
       //add toggle for showing icons on map
       toggleIcon($(this).attr('id'));
     });
@@ -21,15 +20,16 @@
   var map = L.map('map').setView([36.165818, -86.784245], 13);
   //varables for the map. points are latitude and longitude points
   //markers are leaflet markers
-  var firePoints=[], parksPoints=[], policePoints=[], wifiPoints=[],
-    fireMarkers=[], policeMarkers=[], wifiMarkers=[], parksMarkers=[];
+  var firePoints=[], parksPoints=[], policePoints=[], wifiPoints=[], communityCenterPoints=[],
+    fireMarkers=[], policeMarkers=[], wifiMarkers=[], parksMarkers=[], communityCenterMarkers=[];
   //set up the icons for the markers
   var fireIcon = new L.Icon({iconUrl:'../images/firestation-color.png',
                             iconSize:[45,45]}),
       policeIcon = new L.Icon({iconUrl:'../images/policestation-color.png',
                               iconSize:[45,45]}),
       wifiIcon = new L.Icon({iconUrl:'../images/wifi-color.png',iconSize:[45,45]}),
-      parksIcon = new L.Icon({iconUrl:'../images/park-color.png',iconSize:[45,45]});
+      parksIcon = new L.Icon({iconUrl:'../images/park-color.png',iconSize:[45,45]}),
+      communityCenterIcon = new L.Icon({iconUrl:'../images/wifi-color.png',iconSize:[45,45]});
 
   //create the layer for the map from MapQuest
   L.tileLayer( 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
@@ -59,6 +59,12 @@ $.get('../parks-cleaned.json',function(data){
     parksPoints.push([+loc.location[0],+loc.location[1],loc.name]);
   });
 });
+$.get('../community-centers-cleaned.json',function(data){
+  data.forEach(function(loc){
+    parksPoints.push([+loc.location[0],+loc.location[1],loc.name]);
+  });
+});
+
 
 function toggleIcon(type){
   //toggleIcon takes the type of markers we want to toggle
@@ -77,8 +83,8 @@ function toggleIcon(type){
     case 'parks':
       setMarkersFor(parksPoints,parksMarkers,parksIcon);
       break;
-    case 'recycling':
-      // setMarkersFor(recyclingPoints, recyclingMarkers, recyclingIcon);
+    case 'community-centers':
+      setMarkersFor(communityCenterPoints, communityCenterMarkers, communityCenterIcon);
       break;
   }
   function setMarkersFor(points, markers, icon){
