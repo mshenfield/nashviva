@@ -1,0 +1,821 @@
+[
+    {
+        "School Name": "BAILEY STEM MAGNET MIDDLE",
+        "Street Address": "2000 GREENWOOD AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "BAXTER ALTERNATIVE LEARNING CENTER",
+        "Street Address": "3515 GALLATIN RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "BELLEVUE MIDDLE SCHOOL",
+        "Street Address": "655 COLICE JEANNE RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37221
+    },
+    {
+        "School Name": "BELLSHIRE ELEMENTARY DESIGN CENTER",
+        "Street Address": "1128 BELL GRIMES LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "BORDEAUX ELEMENTARY ENHANCED OPTION",
+        "Street Address": "1910 SOUTH HAMILTON RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37218
+    },
+    {
+        "School Name": "BOY'S PREP",
+        "Street Address": "283 PLUS PARK BL",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37217
+    },
+    {
+        "School Name": "BRICK CHURCH COLLEGE PREP",
+        "Street Address": "2835 BRICK CHURCH PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "BRICK CHURCH MIDDLE",
+        "Street Address": "2835 BRICK CHURCH PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "BUENA VISTA ELEMENTARY ENHANCED OPTION",
+        "Street Address": "1531 9TH AVENUE NORTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37208
+    },
+    {
+        "School Name": "CALDWELL ELEM. ENHANCED OPTION",
+        "Street Address": "401 MERIDIAN ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "CAMERON COLLEGE PREPARATORY",
+        "Street Address": "1034 1ST AVENUE SOUTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "CAMERON MIDDLE SCHOOL",
+        "Street Address": "1034 1ST AVENUE SOUTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "CARTER LAWRENCE ELEMENTARY MAGNET",
+        "Street Address": "1118 12TH AVENUE SOUTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37203
+    },
+    {
+        "School Name": "CHARLOTTE PARK ELEMENTARY",
+        "Street Address": "480 ANNEX AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "COCKRILL ELEMENTARY",
+        "Street Address": "4701 INDIANA AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "CORA HOWE SCHOOL",
+        "Street Address": "1928 GREENWOOD AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "CRIEVE HALL ELEMENTARY",
+        "Street Address": "498 HOGAN RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37220
+    },
+    {
+        "School Name": "CROFT MIDDLE DESIGN CENTER",
+        "Street Address": "482 ELYSIAN FIELDS DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "CUMBERLAND ELEMENTARY",
+        "Street Address": "4247 CATO RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37218
+    },
+    {
+        "School Name": "DAN MILLS ELEMENTARY",
+        "Street Address": "4106 KENNEDY AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "DONELSON MIDDLE SCHOOL",
+        "Street Address": "110 STEWARTS FERRY PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "EAKIN ELEMENTARY",
+        "Street Address": "2500 FAIRFAX AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37212
+    },
+    {
+        "School Name": "EAST END PREPARATORY SCHOOL",
+        "Street Address": "1460 MCGAVOCK PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "EAST NASHVILLE MAGNET SCHOOL",
+        "Street Address": "110 GALLATIN RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "FALL- HAMILTON ELEMENTARY ENHANCED OPTION",
+        "Street Address": "510 WEDGEWOOD AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37203
+    },
+    {
+        "School Name": "GLENCLIFF ELEMENTARY",
+        "Street Address": "120 ANTIOCH PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "GLENCLIFF HIGH SCHOOL",
+        "Street Address": "160 ANTIOCH PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "GLENDALE SPANISH IMMERSION ELEMENTARY SCHOOL",
+        "Street Address": "800 THOMPSON AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37204
+    },
+    {
+        "School Name": "GLENGARRY ELEMENTARY",
+        "Street Address": "200 FINLEY DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37217
+    },
+    {
+        "School Name": "GLENN ELEMENTARY ENHANCE OPTION SCHOOL",
+        "Street Address": "322 CLEVELAND ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "GLENVIEW ELEMENTARY",
+        "Street Address": "1020 PATRICIA DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37217
+    },
+    {
+        "School Name": "GOWER ELEMENTARY",
+        "Street Address": "650 OLD HICKORY BL",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "GRA-MAR MIDDLE SCHOOL",
+        "Street Address": "575 JOYCE LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "H G HILL MIDDLE SCHOOL",
+        "Street Address": "150 DAVIDSON RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37205
+    },
+    {
+        "School Name": "HARPETH VALLEY ELEMENTARY",
+        "Street Address": "7840 LEARNING LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37221
+    },
+    {
+        "School Name": "HARRIS-HILLMAN SPECIAL",
+        "Street Address": "1706 26TH AVENUE SOUTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37212
+    },
+    {
+        "School Name": "HATTIE COTTON STEM MAGNET ELEM.",
+        "Street Address": "1033 WEST GREENWOOD AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "HAYNES HEALTH/ MEDICAL SCIENCE DESIGN CENTER",
+        "Street Address": "510 WEST TRINITY LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "HAYWOOD ELEMENTARY",
+        "Street Address": "3790 TURLEY DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "HEAD MIDDLE MATHEMATICS / SCIENCE MAGNET",
+        "Street Address": "1830 JO JOHNSTON AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37203
+    },
+    {
+        "School Name": "HICKMAN ELEMENTARY",
+        "Street Address": "112 STEWARTS FERRY PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "HILLSBORO COMP HIGH SCHOOL",
+        "Street Address": "3812 HILLSBORO RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37215
+    },
+    {
+        "School Name": "HILLWOOD COMP HIGH SCHOOL",
+        "Street Address": "400 DAVIDSON RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37205
+    },
+    {
+        "School Name": "HULL JACKSON MONTESSORI MAGNET",
+        "Street Address": "1015 KELLOW ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37208
+    },
+    {
+        "School Name": "HUME - FOGG HIGH ACADEMIC MAGNET",
+        "Street Address": "700 BROADWAY",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37203
+    },
+    {
+        "School Name": "HUNTERS LANE COMP HIGH SCHOOL",
+        "Street Address": "1150 HUNTERS LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "I. T. CRESWELL ARTS MAGNET MIDDLE SCHOOL",
+        "Street Address": "3500 JOHN MALLETTE DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37218
+    },
+    {
+        "School Name": "INGLEWOOD ELEMENTARY",
+        "Street Address": "1700 RIVERSIDE DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "ISAAC LITTON MIDDLE SCHOOL",
+        "Street Address": "4601 HEDGEWOOD DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "JERE BAXTER MIDDLE SCHOOL",
+        "Street Address": "350 HART LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "JOHN B WHITSITT ELEMENTARY",
+        "Street Address": "110 WHITSETT RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "JOHN EARLY PAIDEIA MIDDLE MAGNET",
+        "Street Address": "1000 CASS ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37208
+    },
+    {
+        "School Name": "JOHN OVERTON COMP HIGH SCHOOL",
+        "Street Address": "4820 FRANKLIN RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37220
+    },
+    {
+        "School Name": "JOHN T. MOORE MIDDLE SCHOOL",
+        "Street Address": "4425 GRANNY WHITE PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37204
+    },
+    {
+        "School Name": "JOHNSON SCHOOL",
+        "Street Address": "1200 2ND AVE SO",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "JONES PAIDEIA ELEMENTARY MAGNET",
+        "Street Address": "1800 9TH AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37208
+    },
+    {
+        "School Name": "JULIA GREEN ELEMENTARY",
+        "Street Address": "3701 BELMONT BL",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37215
+    },
+    {
+        "School Name": "K I P P HIGH SCHOOL",
+        "Street Address": "123 DOUGLAS AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "K I P P: ACADEMY NASHVILLE",
+        "Street Address": "3410 KNIGHT RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37189
+    },
+    {
+        "School Name": "KIRKPATRICK ELEMENTARY ENHANCED OPTION",
+        "Street Address": "1000 SEVIER ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "LAKEVIEW ELEMENTARY DESIGN CENTER",
+        "Street Address": "455 RURAL HILL RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37217
+    },
+    {
+        "School Name": "LEAD ACADEMY",
+        "Street Address": "1704 HEIMAN ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "LEAD PREP SOUTHEAST",
+        "Street Address": "2601 BRANSFORD AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37204
+    },
+    {
+        "School Name": "LIBERTY COLLEGIATE ACADEMY",
+        "Street Address": "217 10TH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "LOCKELAND ELEMENTARY DESIGN CENTER",
+        "Street Address": "105 SOUTH 17TH ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "M N P S MIDDLE COLLEGE HIGH SCHOOL",
+        "Street Address": "120 WHITE BRIDGE RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "MAPLEWOOD COMP HIGH SCHOOL",
+        "Street Address": "401 WALTON LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "MARGARET ALLEN MIDDLE SCHOOL",
+        "Street Address": "500 SPENCE LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "MARTIN LUTHER KING JR MAGNET SCHOOL",
+        "Street Address": "613 17TH AVENUE NORTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37203
+    },
+    {
+        "School Name": "MAY WERTHAN SHAYNE ELEMENTARY SCHOOL",
+        "Street Address": "6217 NOLENSVILLE RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "MC CANN ALTERNATIVE LEARNING CENTER",
+        "Street Address": "1300 56TH AVENUE NORTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "MCGAVOCK COMP HIGH SCHOOL",
+        "Street Address": "3150 MCGAVOCK PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "MCGAVOCK ELEMENTARY",
+        "Street Address": "275 MCGAVOCK PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "MCKISSACK MIDDLE SCHOOL",
+        "Street Address": "915 38TH AVE N",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "MCMURRAY MIDDLE SCHOOL",
+        "Street Address": "520 MCMURRAY DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "MEIGS MIDDLE MAGNET SCHOOL",
+        "Street Address": "713 RAMSEY ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "METRO NASHVILLE VIRTUAL SCHOOL",
+        "Street Address": "2400 FAIRFAX AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37212
+    },
+    {
+        "School Name": "MURRELL SCHOOL",
+        "Street Address": "1450 14TH AVENUE SOUTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37212
+    },
+    {
+        "School Name": "NAPIER ELEMENTARY ENHANCEMENT OPTION",
+        "Street Address": "60 FAIRFIELD AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "NASHVILLE BIG PICTURE HIGH SCHOOL",
+        "Street Address": "160 RURAL AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "NASHVILLE PREP",
+        "Street Address": "330 10TH AVE N",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37203
+    },
+    {
+        "School Name": "NASHVILLE SCHOOL OF THE ARTS",
+        "Street Address": "1250 FOSTER AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "NEW VISION ACADEMY",
+        "Street Address": "297 PLUS PARK BL",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37217
+    },
+    {
+        "School Name": "NORMAN BINKLEY ELEMENTARY",
+        "Street Address": "4700 WEST LONGDALE DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "PARAGON MILLS ELEMENTARY",
+        "Street Address": "260 PARAGON MILLS RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "PARK AVENUE ELEMENTARY ENHANCED OPTION",
+        "Street Address": "3703 PARK AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "PEARL COHN MAGNET HIGH SCHOOL",
+        "Street Address": "904 26TH AVENUE NORTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37208
+    },
+    {
+        "School Name": "PENNINGTON ELEMENTARY",
+        "Street Address": "2817 DONNA HILL DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "PERCY PRIEST ELEMENTARY",
+        "Street Address": "1700 OTTER CREEK RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37215
+    },
+    {
+        "School Name": "ROBERT CHURCHWELL MUSEUM MAGNET ELEMENTARY SCHOOL",
+        "Street Address": "1625 DR. D. B. TODD JR. BL",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37208
+    },
+    {
+        "School Name": "ROBERT E. LILLIARD @ KINGS LANE DESIGN CENTER",
+        "Street Address": "3200 KINGS LA",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37218
+    },
+    {
+        "School Name": "ROSE PARK MATH/ SCIENCE MIDDLE MAGNET",
+        "Street Address": "1025 9TH AVENUE SOUTH",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37203
+    },
+    {
+        "School Name": "ROSEBANK ELEMENTARY",
+        "Street Address": "1012 PRESTON DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "ROSS ELEMENTARY",
+        "Street Address": "601 MCFERRIN AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "SHWAB ELEMENTARY",
+        "Street Address": "1500 DICKERSON RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "SMITHSON CRAIGHEAD ACADEMY",
+        "Street Address": "3307 BRICK CHURCH PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "STANFORD ELEMENTARY MONTESSORI DESIGN CENTER",
+        "Street Address": "2417 MAPLECREST DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "STEM PREP ACADEMY",
+        "Street Address": "3748 NOLENSVILLE PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "STRATFORD STEM MAGNET HIGH SCHOOL",
+        "Street Address": "1800 STRATFORD AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37216
+    },
+    {
+        "School Name": "SYLVAN PARK PAIDEIA DESIGN CENTER",
+        "Street Address": "4801 UTAH AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "TENN SCHOOL FOR BLIND",
+        "Street Address": "115 STEWARTS FERRY PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "THE ACADEMY AT OLD COCKRILL",
+        "Street Address": "610 49TH AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "THE ACADEMY AT OPRY MILLS",
+        "Street Address": "433 OPRY MILLS DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "THE COHN SCHOOL",
+        "Street Address": "4805 PARK AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "TOM JOY ELEMENTARY",
+        "Street Address": "2201 JONES AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37207
+    },
+    {
+        "School Name": "TRANSITIONS AT BASS",
+        "Street Address": "5200 DELAWARE AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "TUSCULUM ELEMENTARY",
+        "Street Address": "4917 NOLENSVILLE RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "TWO RIVERS MIDDLE SCHOOL",
+        "Street Address": "2991 MCGAVOCK PK",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "UNA ELEMENTARY",
+        "Street Address": "2018 MURFREESBORO RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37214
+    },
+    {
+        "School Name": "W. A. BASS ADULT HIGH SCHOOL",
+        "Street Address": "5300 DELAWARE AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "W.A. BASS ALTERNATIVE LEARNING CENTER",
+        "Street Address": "5200 DELAWARE AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37209
+    },
+    {
+        "School Name": "WARNER ELEMENTARY ENHANCED OPTION SCHOOL",
+        "Street Address": "626 RUSSELL ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37206
+    },
+    {
+        "School Name": "WAYNE REED CHILD CARE CENTER",
+        "Street Address": "11-B LINDSLEY AVE",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37210
+    },
+    {
+        "School Name": "WEST END MIDDLE SCHOOL",
+        "Street Address": "3529 WEST END AV",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37205
+    },
+    {
+        "School Name": "WESTMEADE ELEMENTARY",
+        "Street Address": "6641 CLEARBROOK DR",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37205
+    },
+    {
+        "School Name": "WILLIAM HENRY OLIVER MIDDLE SCHOOL",
+        "Street Address": "6211 NOLENSVILLE RD",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    },
+    {
+        "School Name": "WRIGHT MIDDLE SCHOOL",
+        "Street Address": "180 MCCALL ST",
+        "City": "NASHVILLE",
+        "State": "TN",
+        "ZIP": 37211
+    }
+]
