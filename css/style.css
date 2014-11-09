@@ -23,13 +23,18 @@ header {
 
 .app-description {
 	/*text-align:center; */
+  font-family: serif;
+  font-style: italic;
 }
 
 #skyline img {
   display: block;
+  min-width: 100%;
   max-width: 100%;
+  height: 180px;
   margin-right: 0;
   margin-left: 0;
+  background-color: #91C3DC;
 }
 
 #title{
@@ -63,7 +68,9 @@ header {
 
 
 body {
-  background: white;
+  background-image:url(http://nashvillearts.com/wp-content/uploads/2013/12/Skyline-Contest_Ryan-Maciej_First-Place_Hobbyist-Category.jpg);
+  background-position: center;
+  background-size: cover;
   background-attachment: fixed;
   height: 100%;
   width: 100%;
@@ -80,7 +87,7 @@ body {
 
 /* --- map --- */
 #map {
-  height:500px;
+  height: 500px;
   width: 80%;
   margin: 10px auto 20px 0;
   float: right;
@@ -102,7 +109,9 @@ body {
 }
 
 .data-toggle {
-  width: 30%;
+  font-family: serif;
+  font-size: 1em;
+  width: 20%;
   float: left;
   clear: left;
   font-weight: bold;
