@@ -29,7 +29,7 @@
                               iconSize:[45,45]}),
       wifiIcon = new L.Icon({iconUrl:'../images/wifi-color.png',iconSize:[45,45]}),
       parksIcon = new L.Icon({iconUrl:'../images/park-color.png',iconSize:[45,45]}),
-      communityCenterIcon = new L.Icon({iconUrl:'../images/wifi-color.png',iconSize:[45,45]});
+      communityCenterIcon = new L.Icon({iconUrl:'../images/firestation.png',iconSize:[45,45]});
 
   //create the layer for the map from MapQuest
   L.tileLayer( 'http://{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', {
@@ -37,8 +37,7 @@
     subdomains: ['otile1','otile2','otile3','otile4']
 }).addTo( map );
 
-//Convert our JSON files into latitude longitude points in the "Points"
-//variables
+//Convert our JSON files into latitude longitude points in the "Points" variables
 $.get('../firestation-cleaned.json',function(data){
   data.forEach(function(loc){
     firePoints.push([+loc.location[1],+loc.location[0]]);
@@ -57,11 +56,13 @@ $.get('../hotspot-cleaned.json', function(data){
 $.get('../parks-cleaned.json',function(data){
   data.forEach(function(loc){
     parksPoints.push([+loc.location[0],+loc.location[1],loc.name]);
+    // console.log(parksPoints)
   });
 });
 $.get('../community-centers-cleaned.json',function(data){
   data.forEach(function(loc){
-    parksPoints.push([+loc.location[0],+loc.location[1],loc.name]);
+    communityCenterPoints.push([+loc.location[1],+loc.location[0],loc.name]);
+    console.log(communityCenterPoints)
   });
 });
 
@@ -83,7 +84,7 @@ function toggleIcon(type){
     case 'parks':
       setMarkersFor(parksPoints,parksMarkers,parksIcon);
       break;
-    case 'community-centers':
+    case 'community-center':
       setMarkersFor(communityCenterPoints, communityCenterMarkers, communityCenterIcon);
       break;
   }
