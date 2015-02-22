@@ -1,0 +1,21 @@
+{
+  "name": "nashviva",
+  "version": "0.0.0",
+  "homepage": "https://github.com/code-for-nashville/nashviva",
+  "authors": [
+    "Colby DeHart <colbydehart@gmail.com>"
+  ],
+  "description": "The Swiss Army Knife For Nashville Life",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "angular-route": "~1.3.13"
+  }
+}

@@ -13,3 +13,11 @@ Public wifi <br>
 Recycling center locations <br>
 
 [Nashviva website](http://nashviva.codefornashville.org)
+
+
+##To run
+
+- npm install
+- bower install
+- if you dont have gulp installed, you will need to `npm install gulp --global`
+- then run gulp to start a server with livereload
